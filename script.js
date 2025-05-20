@@ -1,3 +1,5 @@
+"use strict";
+
 const numberOfFilms = prompt("What's your name?", "");
 
 var personalMovieDB = {
