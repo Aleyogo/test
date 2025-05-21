@@ -35,7 +35,9 @@ if(hamburger === 3 && cola === 2 || fries === 3 && nuggets){
     console.log("I'm angry!");
 }
 
-console.log(hamburger || cola ||  fries);
+console.log(hamburger === 3 && cola === 2 );
+
+// console.log(hamburger || cola ||  fries);
 
 let johnReport, alexReport, samReport, mariaReport = 'done';
 
