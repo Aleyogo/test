@@ -60,16 +60,21 @@
 // }
 
 
-const data = [5, 10, 'Shopping', 20, 'Homework'];
-const result = [];
+// const data = [5, 10, 'Shopping', 20, 'Homework'];
+// const result = [];
 
 
-for(let i = data.length - 1; i >= 0; i--){
-    result[i] = data[i];
-    console.log(result[i]);
-}
+// for(let i = data.length - 1; i >= 0; i--){
+//     result[i] = data[i];
+//     console.log(result[i]);
+// }
 
 // console.log(result);
+
+
+
+
+
 
 
 
