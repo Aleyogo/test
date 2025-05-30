@@ -69,5 +69,41 @@
 
 // test();
 
-function doNothing(){}
-console.log(doNothing() === undefined);
+// function doNothing(){}
+// console.log(doNothing() === undefined);
+
+// function sayHello(name) {
+//     let hello = "Hello " + name;
+//     console.log(hello);
+//     return hello;
+// }
+
+// var arr = [3];
+
+// function returnNeighboringNumbers(num) {
+//     for(let i = 0; i < 3; i++){
+//         arr[i] = num - 1;
+//         num ++; 
+//     }
+//     console.log(arr);
+//     return arr;
+// }
+
+// returnNeighboringNumbers(53);
+
+
+
+// function getMathResult(num, rep) {
+//     if(typeof(rep) !== "number" || rep <= 0){
+//         return num;
+//     } else{
+//         for(let i = 1; i <= rep; i++){
+//             console.log(num * i + "---");
+//         }
+//     }
+// }
+
+// getMathResult(5, 4);
+
+
+
